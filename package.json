@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "csrf": "^3.0.6",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-csrf": "^3.0.7",
+    "koa-generic-session": "^2.0.1",
+    "xss": "^1.0.3"
+  }
+}
